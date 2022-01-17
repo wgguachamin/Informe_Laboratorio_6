@@ -162,13 +162,17 @@ Entonces se tiene:
 5. DESARROLLO DE LAS PREGUNTAS
 
 •	¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+
+
+
 •	¿Cuál fue la potencia máxima en RL? 
 
 La Maxima Potencia  encontrada fue de 0.04651 Watts con la resistencia de  1 kΩ.
 
 •	¿Para qué valor de RL se obtiene la MTP? 
 
-![image](https://user-images.githubusercontent.com/93415377/149847992-5d7ede0d-c408-4bd1-a27c-19d8b41b0b71.png)
+![image](https://user-images.githubusercontent.com/93415377/149848328-6b6bc652-6ea8-49ac-a7d9-6a0d84fc30eb.png)
+
 
 ![image](https://user-images.githubusercontent.com/93415377/149848250-96e44c25-017d-4145-82ca-b29cfed87f3f.png)
 
