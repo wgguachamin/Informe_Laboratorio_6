@@ -102,6 +102,48 @@ Potencia calculada experimentalmente (W):
 
 ![image](https://user-images.githubusercontent.com/94008521/149843012-ba206c41-5057-48bb-9350-669a533bba90.png)
 
+- Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla.
+
+- Para RL = 220Ω
+
+![image](https://user-images.githubusercontent.com/94008521/149843171-0a14b195-e369-4cd1-97bb-49e3273c8478.png)
+
+- Para RL = 470Ω
+
+![image](https://user-images.githubusercontent.com/94008521/149843376-5504ab0b-1c37-488d-97e5-7f7ccdea0855.png)
+
+- Para RL = 680Ω
+
+![image](https://user-images.githubusercontent.com/94008521/149843383-02c36702-9c2b-4d6f-9243-aa4627b73d86.png)
+
+- Para RL = 820Ω
+
+![image](https://user-images.githubusercontent.com/94008521/149843400-cfcc9f66-18b1-4915-aaa8-23f04b734f1d.png)
+
+- Para RL = 1000Ω
+
+![image](https://user-images.githubusercontent.com/94008521/149843419-bd85cee0-c408-4ebd-bcfb-0e56f0212805.png)
+
+- Para RL = 1500Ω
+
+![image](https://user-images.githubusercontent.com/94008521/149843434-3a80d211-30f1-46a6-98ae-fffbca71ffdc.png)
+
+- Para RL = 1800Ω
+
+![image](https://user-images.githubusercontent.com/94008521/149843448-076d30b0-38cd-4adc-9c6c-00b54bebf249.png)
+
+- Para RL = 2200Ω
+
+![image](https://user-images.githubusercontent.com/94008521/149843453-33368453-8c11-4f6a-83bb-3ceff38d8693.png)
+
+- Para RL = 3900Ω
+
+![image](https://user-images.githubusercontent.com/94008521/149843464-333bf529-4822-4c06-96b3-cbbf1f222a05.png)
+
+- Para RL = 4700Ω
+
+![image](https://user-images.githubusercontent.com/94008521/149843496-dba70561-4f09-4a36-b386-150e31d37e4b.png)
+
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
 5. DESARROLLO DE LAS PREGUNTAS
