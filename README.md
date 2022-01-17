@@ -56,16 +56,51 @@ Potencia calculada experimentalmente (W):
 
 - Para RL = 1000Ω
 
+![image](https://user-images.githubusercontent.com/94008521/149842791-e2e286a0-f012-467a-8b3a-a64a28a5b796.png)
+
+Potencia calculada experimentalmente (W):
+
+![image](https://user-images.githubusercontent.com/94008521/149842817-44be9cef-fc41-4a57-b0d1-fff4a92591ec.png)
+
 - Para RL = 1500Ω
+
+![image](https://user-images.githubusercontent.com/94008521/149842840-5c044835-3ad5-4cd5-a73f-a35708290a87.png)
+
+Potencia calculada experimentalmente (W):
+
+![image](https://user-images.githubusercontent.com/94008521/149842908-cadc79a8-15d0-4a5a-bbec-1bd1b5adf478.png)
 
 - Para RL = 1800Ω
 
+![image](https://user-images.githubusercontent.com/94008521/149842920-bf5ce758-500e-41d0-8ce3-97ba080f8ee0.png)
+
+Potencia calculada experimentalmente (W):
+
+![image](https://user-images.githubusercontent.com/94008521/149842945-84d76493-675c-4e9a-bdd8-f3d9b47e4a23.png)
+
 - Para RL = 2200Ω
+
+![image](https://user-images.githubusercontent.com/94008521/149842960-3f7e8450-be13-4391-a6f7-c20718a64135.png)
+
+Potencia calculada experimentalmente (W):
+
+![image](https://user-images.githubusercontent.com/94008521/149842975-5d5a737b-f774-40b9-b6ee-de84e28fa94e.png)
 
 - Para RL = 3900Ω
 
+![image](https://user-images.githubusercontent.com/94008521/149842988-cb0e51bd-db70-4c8f-979b-08fccc57fb10.png)
+
+Potencia calculada experimentalmente (W):
+
+![image](https://user-images.githubusercontent.com/94008521/149842995-eeeb5c83-7778-4835-b0ed-3f95a14b70ac.png)
+
 - Para RL = 4700Ω
 
+![image](https://user-images.githubusercontent.com/94008521/149843004-994a6f69-1b5f-408f-800e-e8d205bf934c.png)
+
+Potencia calculada experimentalmente (W):
+
+![image](https://user-images.githubusercontent.com/94008521/149843012-ba206c41-5057-48bb-9350-669a533bba90.png)
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
