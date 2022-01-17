@@ -186,4 +186,10 @@ La Maxima Potencia  encontrada fue de 0.04651 Watts con la resistencia de  1 k�
 
 7. CONCLUSIONES 
 
+•	El teorema de la máxima potencia de transferencia explica cómo aprovechar al máximo la energía que proporcionan los elementos activos en una red, por el momento resistiva, aunque no se restringe a este tipo de circuitos. 
+
+•	La máxima potencia transferida a una carga en una red resistiva se logra haciendo que la carga tenga la misma resistencia que la resistencia Thevenin equivalente del circuito.
+
+
+
 8. BIBLIOGRAFÍA
