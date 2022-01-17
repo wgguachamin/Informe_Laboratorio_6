@@ -150,7 +150,7 @@ Potencia calculada experimentalmente (W):
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
-Para calcular el margen de error efectuado en cada una de las mediciones obtenidas de forma analítica y experimental se usa la siguiente formula del cálculo de error. En este caso se calculará el error solamente Potencia calculada experimentalmente (W) y Potencia calculada teóricamente (W)
+Para calcular el margen de error efectuado en cada una de las mediciones obtenidas de forma analítica y experimental se usa la siguiente formula del cálculo de error. En este caso se calculará el error solamente entre el Potencia calculada experimentalmente (W) y Potencia calculada teóricamente (W)
 
 ![image](https://user-images.githubusercontent.com/93415377/149847698-e5c81583-1bc3-4902-99c4-d57e616fcfc3.png)
 
