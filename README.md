@@ -144,6 +144,10 @@ Potencia calculada experimentalmente (W):
 
 ![image](https://user-images.githubusercontent.com/94008521/149843496-dba70561-4f09-4a36-b386-150e31d37e4b.png)
 
+- Por último, la tabla con todos los datos recopilados queda de la siguiente manera:
+
+![image](https://user-images.githubusercontent.com/94008521/149843653-88227dcf-f686-4e29-8634-648c22d15b09.png)
+
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
 5. DESARROLLO DE LAS PREGUNTAS
