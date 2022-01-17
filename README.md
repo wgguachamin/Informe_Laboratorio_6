@@ -36,6 +36,16 @@ Potencia calculada experimentalmente (W):
 
 Potencia calculada experimentalmente (W):
 
+![image](https://user-images.githubusercontent.com/94008521/149840555-a0b23035-ecc1-464b-92d5-a4be76d51cd8.png)
+
+- Para RL = 680Ω
+
+![image](https://user-images.githubusercontent.com/94008521/149840658-df40ed9b-d56a-48ee-8d20-0ace27318485.png)
+
+Potencia calculada experimentalmente (W):
+
+![image](https://user-images.githubusercontent.com/94008521/149840800-36c7dda6-93fd-4fc6-907e-ca440ea91752.png)
+
 
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
