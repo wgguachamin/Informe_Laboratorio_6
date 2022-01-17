@@ -46,6 +46,25 @@ Potencia calculada experimentalmente (W):
 
 ![image](https://user-images.githubusercontent.com/94008521/149840800-36c7dda6-93fd-4fc6-907e-ca440ea91752.png)
 
+- Para RL = 820Ω
+
+![image](https://user-images.githubusercontent.com/94008521/149842471-ff2283f0-ff17-4b8b-b419-2fcb73b9b5db.png)
+
+Potencia calculada experimentalmente (W):
+
+![image](https://user-images.githubusercontent.com/94008521/149842489-636688b5-fff5-441f-bcb1-a46e38ac09d1.png)
+
+- Para RL = 1000Ω
+
+- Para RL = 1500Ω
+
+- Para RL = 1800Ω
+
+- Para RL = 2200Ω
+
+- Para RL = 3900Ω
+
+- Para RL = 4700Ω
 
 
 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
