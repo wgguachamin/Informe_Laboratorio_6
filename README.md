@@ -164,7 +164,8 @@ Para calcular el margen de error efectuado en cada una de las mediciones obtenid
 
 Entonces se tiene:
 
-![image](https://user-images.githubusercontent.com/93415377/149847728-b7ff1e96-9608-491b-9a47-13d37332971e.png)
+![image](https://user-images.githubusercontent.com/93960809/149988398-2830990d-d121-43ef-b28c-021686b740da.png)
+
 
 
 5. DESARROLLO DE LAS PREGUNTAS
