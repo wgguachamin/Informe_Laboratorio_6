@@ -114,43 +114,42 @@ Potencia calculada experimentalmente (W):
 
 - Para RL = 220Ω
 
-![image](https://user-images.githubusercontent.com/94008521/149843171-0a14b195-e369-4cd1-97bb-49e3273c8478.png)
+![image](https://user-images.githubusercontent.com/94008521/149987299-72bd5d5c-0855-427b-b48f-61092514dd6a.png)
 
 - Para RL = 470Ω
 
-![image](https://user-images.githubusercontent.com/94008521/149843376-5504ab0b-1c37-488d-97e5-7f7ccdea0855.png)
+![image](https://user-images.githubusercontent.com/94008521/149987330-62b42699-e6b8-4671-b706-de82d7c6e09d.png)
 
 - Para RL = 680Ω
 
-![image](https://user-images.githubusercontent.com/94008521/149843383-02c36702-9c2b-4d6f-9243-aa4627b73d86.png)
 
 - Para RL = 820Ω
 
-![image](https://user-images.githubusercontent.com/94008521/149843400-cfcc9f66-18b1-4915-aaa8-23f04b734f1d.png)
+![image](https://user-images.githubusercontent.com/94008521/149987398-1ed44377-5fb3-44c3-9b56-327329648e91.png)
 
 - Para RL = 1000Ω
 
-![image](https://user-images.githubusercontent.com/94008521/149843419-bd85cee0-c408-4ebd-bcfb-0e56f0212805.png)
+![image](https://user-images.githubusercontent.com/94008521/149987433-b993a4cd-f5be-4ed1-ac37-47ab0fb2c6a2.png)
 
 - Para RL = 1500Ω
 
-![image](https://user-images.githubusercontent.com/94008521/149843434-3a80d211-30f1-46a6-98ae-fffbca71ffdc.png)
+![image](https://user-images.githubusercontent.com/94008521/149987467-e8f45d5e-f362-41f4-8bab-8f4eb827848f.png)
 
 - Para RL = 1800Ω
 
-![image](https://user-images.githubusercontent.com/94008521/149843448-076d30b0-38cd-4adc-9c6c-00b54bebf249.png)
+![image](https://user-images.githubusercontent.com/94008521/149987489-aab17126-8656-4295-a17b-29dfcc5df26f.png)
 
 - Para RL = 2200Ω
 
-![image](https://user-images.githubusercontent.com/94008521/149843453-33368453-8c11-4f6a-83bb-3ceff38d8693.png)
+![image](https://user-images.githubusercontent.com/94008521/149987514-d5e7ffa3-152e-49d0-85b1-01f1d66c4142.png)
 
 - Para RL = 3900Ω
 
-![image](https://user-images.githubusercontent.com/94008521/149843464-333bf529-4822-4c06-96b3-cbbf1f222a05.png)
+![image](https://user-images.githubusercontent.com/94008521/149987541-fbdf6954-100f-4a8f-88ee-8f10ec244d36.png)
 
 - Para RL = 4700Ω
 
-![image](https://user-images.githubusercontent.com/94008521/149843496-dba70561-4f09-4a36-b386-150e31d37e4b.png)
+![image](https://user-images.githubusercontent.com/94008521/149987574-cf13d2ae-b233-49a8-bb8e-501964e0c0c6.png)
 
 - Por último, la tabla con todos los datos recopilados queda de la siguiente manera:
 
