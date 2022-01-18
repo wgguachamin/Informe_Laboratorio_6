@@ -8,9 +8,9 @@ Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia a
 
 1.2. OBJETIVOS ESPECÍFICOS
 
--Determinar que establece el Teorema de la máxima transferencia de potencia y cómo se relaciona esta con el Teorema de Thévenin.
+•Determinar que establece el Teorema de la máxima transferencia de potencia y cómo se relaciona esta con el Teorema de Thévenin.
 
--Identificar en qué condiciones se da la transferencia de potencia máxima desde una fuente hasta una carga.  
+•Identificar en qué condiciones se da la transferencia de potencia máxima desde una fuente hasta una carga.  
 
 2. MARCO TEÓRICO
 
