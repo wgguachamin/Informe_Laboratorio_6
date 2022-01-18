@@ -4,9 +4,17 @@ PRÁCTICA N°06 TEOREMA DE LA MÁXIMA TRANFERENCIA DE POTENCIA
 
 1.1. OBJETIVO GENERAL
 
+Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia armando un circuito en la plataforma Tinkercad, de forma que se empleen los conocimientos adquiridos en clase y demostrar el funcionamiento de dicho teorema.
+
 1.2. OBJETIVOS ESPECÍFICOS
 
+-Determinar que establece el Teorema de la máxima transferencia de potencia y cómo se relaciona esta con el Teorema de Thévenin.
+
+-Identificar en qué condiciones se da la transferencia de potencia máxima desde una fuente hasta una carga.  
+
 2. MARCO TEÓRICO
+
+![Diagrama en blanco (1)](https://user-images.githubusercontent.com/93960809/149958165-9f92949a-cc91-40ba-9412-85d7fab9c0fd.png)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -191,6 +199,8 @@ La Maxima Potencia  encontrada fue de 0.04651 Watts con la resistencia de  1 k�
 
 •	La máxima potencia transferida a una carga en una red resistiva se logra haciendo que la carga tenga la misma resistencia que la resistencia Thevenin equivalente del circuito.
 
+•Se logró identificar que, para una fuente de voltaje dada, la potencia máxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente, mediante haber armado y probado el circuito en Tinkercad.
 
+•Se pudo determinar que el teorema de la máxima transferencia de potencia se relaciona con el teorema de Thévenin, ya que este usa dicho circuito equivalente, con una resistencia y su carga de salida.
 
 8. BIBLIOGRAFÍA
