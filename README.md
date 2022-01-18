@@ -171,7 +171,7 @@ La Maxima Potencia  encontrada fue de 0.04651 Watts con la resistencia de  1 k�
 
 •	¿Para qué valor de RL se obtiene la MTP? 
 
-![image](https://user-images.githubusercontent.com/93415377/149848328-6b6bc652-6ea8-49ac-a7d9-6a0d84fc30eb.png)
+![image](https://user-images.githubusercontent.com/93415377/149849386-d785be23-1d58-44d1-aff1-83312d22fddd.png)
 
 
 ![image](https://user-images.githubusercontent.com/93415377/149848250-96e44c25-017d-4145-82ca-b29cfed87f3f.png)
