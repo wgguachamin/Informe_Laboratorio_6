@@ -36,7 +36,7 @@ Este circuito se empleará para comprobar el Teorema de la MTP.
 
 Potencia calculada experimentalmente (W):
 
-![image](https://user-images.githubusercontent.com/94008521/149840314-3fff019b-2227-4158-a40e-4aeafe22763f.png)
+![image](https://user-images.githubusercontent.com/93960809/149986749-1df4a1b4-6d81-4bf0-ab9f-f69e582d3ae5.png)
 
 - Para RL = 470Ω
 
@@ -44,7 +44,7 @@ Potencia calculada experimentalmente (W):
 
 Potencia calculada experimentalmente (W):
 
-![image](https://user-images.githubusercontent.com/94008521/149840555-a0b23035-ecc1-464b-92d5-a4be76d51cd8.png)
+![image](https://user-images.githubusercontent.com/93960809/149986813-4a7e5c59-92ce-46fb-a120-ca331b1a1f10.png)
 
 - Para RL = 680Ω
 
@@ -52,7 +52,7 @@ Potencia calculada experimentalmente (W):
 
 Potencia calculada experimentalmente (W):
 
-![image](https://user-images.githubusercontent.com/94008521/149840800-36c7dda6-93fd-4fc6-907e-ca440ea91752.png)
+![image](https://user-images.githubusercontent.com/93960809/149986854-aa50d557-943a-4037-ae3a-eed5a581bd0e.png)
 
 - Para RL = 820Ω
 
@@ -60,7 +60,7 @@ Potencia calculada experimentalmente (W):
 
 Potencia calculada experimentalmente (W):
 
-![image](https://user-images.githubusercontent.com/94008521/149842489-636688b5-fff5-441f-bcb1-a46e38ac09d1.png)
+![image](https://user-images.githubusercontent.com/93960809/149986889-63424fba-05bc-4c61-b73f-cb464ba465c1.png)
 
 - Para RL = 1000Ω
 
@@ -68,7 +68,7 @@ Potencia calculada experimentalmente (W):
 
 Potencia calculada experimentalmente (W):
 
-![image](https://user-images.githubusercontent.com/94008521/149842817-44be9cef-fc41-4a57-b0d1-fff4a92591ec.png)
+![image](https://user-images.githubusercontent.com/93960809/149986929-7ff9d28e-ed78-454a-8faa-4b71feb9aee5.png)
 
 - Para RL = 1500Ω
 
@@ -76,7 +76,7 @@ Potencia calculada experimentalmente (W):
 
 Potencia calculada experimentalmente (W):
 
-![image](https://user-images.githubusercontent.com/94008521/149842908-cadc79a8-15d0-4a5a-bbec-1bd1b5adf478.png)
+![image](https://user-images.githubusercontent.com/93960809/149986981-f016ae8c-fd99-4768-8683-e622842e5972.png)
 
 - Para RL = 1800Ω
 
@@ -84,7 +84,7 @@ Potencia calculada experimentalmente (W):
 
 Potencia calculada experimentalmente (W):
 
-![image](https://user-images.githubusercontent.com/94008521/149842945-84d76493-675c-4e9a-bdd8-f3d9b47e4a23.png)
+![image](https://user-images.githubusercontent.com/93960809/149987020-f1bc176e-30db-4918-ba49-19443290f6bd.png)
 
 - Para RL = 2200Ω
 
@@ -92,7 +92,7 @@ Potencia calculada experimentalmente (W):
 
 Potencia calculada experimentalmente (W):
 
-![image](https://user-images.githubusercontent.com/94008521/149842975-5d5a737b-f774-40b9-b6ee-de84e28fa94e.png)
+![image](https://user-images.githubusercontent.com/93960809/149987065-4907d3cc-5e66-452d-8ef9-46afd0a493dc.png)
 
 - Para RL = 3900Ω
 
@@ -100,7 +100,7 @@ Potencia calculada experimentalmente (W):
 
 Potencia calculada experimentalmente (W):
 
-![image](https://user-images.githubusercontent.com/94008521/149842995-eeeb5c83-7778-4835-b0ed-3f95a14b70ac.png)
+![image](https://user-images.githubusercontent.com/93960809/149987107-3f99e922-207b-425f-bee3-a76a7539ef34.png)
 
 - Para RL = 4700Ω
 
@@ -108,7 +108,7 @@ Potencia calculada experimentalmente (W):
 
 Potencia calculada experimentalmente (W):
 
-![image](https://user-images.githubusercontent.com/94008521/149843012-ba206c41-5057-48bb-9350-669a533bba90.png)
+![image](https://user-images.githubusercontent.com/93960809/149987161-ab434c62-a0bb-4a06-ae9c-e0d3f0f5d0ed.png)
 
 - Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla.
 
