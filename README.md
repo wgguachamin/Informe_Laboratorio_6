@@ -163,7 +163,7 @@ Entonces se tiene:
 
 •	¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
-
+En el presente laboratorio no se encontró la Máxima Transferencia de Potencia, pues el teorema nos dice que para tener la máxima transferencia de potencia la resistencia de carga debe ser igual a la resistencia de Thévenin R_L=R_TH  y la resistencia más cercana a la resistencia de Thévenin de nuestro circuito, es la resistencia de 1 kΩ
 
 •	¿Cuál fue la potencia máxima en RL? 
 
