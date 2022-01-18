@@ -122,6 +122,7 @@ Potencia calculada experimentalmente (W):
 
 - Para RL = 680Ω
 
+![image](https://user-images.githubusercontent.com/94008521/149988031-3a384e39-9856-4d49-9a89-d4ad73c3f8f9.png)
 
 - Para RL = 820Ω
 
