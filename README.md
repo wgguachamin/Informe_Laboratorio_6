@@ -181,17 +181,13 @@ La Maxima Potencia  encontrada fue de 0.04651 Watts con la resistencia de  1 kâ„
 
 ![image](https://user-images.githubusercontent.com/93415377/149849386-d785be23-1d58-44d1-aff1-83312d22fddd.png)
 
-
 ![image](https://user-images.githubusercontent.com/93415377/149848250-96e44c25-017d-4145-82ca-b29cfed87f3f.png)
-
 
 ![image](https://user-images.githubusercontent.com/93415377/149849598-73e7b425-6224-48d7-9c61-277389fe6a1b.png)
 
-
-
-
-
 6. VIDEO
+
+https://youtu.be/lNf95K1gD98
 
 7. CONCLUSIONES 
 
