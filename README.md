@@ -200,3 +200,9 @@ https://youtu.be/lNf95K1gD98
 •Se pudo determinar que el teorema de la máxima transferencia de potencia se relaciona con el teorema de Thévenin, ya que este usa dicho circuito equivalente, con una resistencia y su carga de salida.
 
 8. BIBLIOGRAFÍA
+
+•Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
+
+•Roy, S. (2021, May 13). Maximum Power Transfer Theorem | 3+ Important Steps| Explanations. Lambda Geeks. https://es.lambdageeks.com/maximum-power-transfer-theorem/
+
+•Mi Tutoria Virtual. (2012, July 21). Teorema de Maxima Transferencia de Potencia - Circuitos Electricos - Video 115 [Video]. YouTube. https://www.youtube.com/watch?v=g6Qgt3pKcj0
